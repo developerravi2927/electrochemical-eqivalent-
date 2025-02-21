@@ -4,7 +4,7 @@
 <b>Discipline | <b>Physical Science
 :--|:--|
 <b> Lab | <b> Physics Lab
-<b> Experiment|     <b> Determine the electrochemical equivalent of Copper. 
+<b> Experiment|     <b> Determine the electrochemical equivalent of Copper using VR
 
 ### About the Experiment 
 This experiment is concern about the process from which the value of electrochemical equivalent (ECE) of cupper electrod is to determined.
@@ -19,4 +19,4 @@ This experiment is concern about the process from which the value of electrochem
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Nishant Pandey | Student| Mechanical Engineering | Rajkiya Engineering College Banda | nishpand01@gmail.com
+1 | Ravi  | Student| Mechanical Engineering | Rajkiya Engineering College Banda | nishpand01@gmail.com
